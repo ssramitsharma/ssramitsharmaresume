@@ -18,7 +18,7 @@ def sendemail():
 
         your_name = "Ramit Sharma"
         your_email = "ssramitsharma@gmail.com"
-        your_password = "zghhykkyrigcfioa"
+        your_password = "10/15-1991sss777"
 
         # Logging in to our email account
         server = smtplib.SMTP('smtp.gmail.com', 587)
